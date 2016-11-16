@@ -39,6 +39,7 @@ Credits:
 			"Different." (ineedchemicalx.deviantart.com/art/Different-353708988)
 			"History was made here" (ineedchemicalx.deviantart.com/art/History-was-made-here-366723812)
 			"People come and go and walk away" (ineedchemicalx.deviantart.com/art/People-come-and-go-and-walk-away-284244677)
+			Background image: Animal Healthcare Clinic of Southlake
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
